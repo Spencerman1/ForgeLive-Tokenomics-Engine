@@ -173,3 +173,7 @@ By proceeding, you acknowledge that the materials within this vault are propriet
 Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents.
 
 This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
+
+Note: All work is to be verified by Spencer Southern at a later date. The current timestamp reflects creation, but any materials produced within any SSPS IP environment must be verified by the original source and are not open to interpretation. All rights reserved.
+
+This safeguard prevents interference attempts from altering or muddying documents, as this is a live, protected, and decentralized environment.
