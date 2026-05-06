@@ -1,0 +1,5 @@
+﻿81B03918A48F8FFE8A74CE7A7181D033B3B2FDC4F8F3972D64D71B35C8E011EA *C:\Users\Spenc\Desktop\vaultforge_live traffic\Clones in last 14 days.csv
+742488C6D4A4BF929AC7F58B55F09C8C165149391B714960FB816B739CC009BC *C:\Users\Spenc\Desktop\vaultforge_live traffic\Total views in last 14 days.csv
+CA92879AC4A5CDAAD55207DCA287520F8D709C0C72BDA3DF02CFF7E91A9C4ABD *C:\Users\Spenc\Desktop\vaultforge_live traffic\Unique cloners in last 14 days.csv
+4639417CF22FEDDDB17774E486EC3522A2142409BA835C389A718DAD32B97B48 *C:\Users\Spenc\Desktop\vaultforge_live traffic\Unique visitors in last 14 days.csv
+DCA765DE48DC5B7E9C929147911AB8BAA4173AC4ED13EE0EC5D51BE4A2A93B6D *C:\Users\Spenc\Desktop\vaultforge_live traffic\vaultforge_live traffic_hashes.txt
